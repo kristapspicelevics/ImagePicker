@@ -20,8 +20,8 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Build;
 import android.os.Bundle;
-import androidx.appcompat.app.ActivityCompat;
-import androidx.appcompat.app.ContextCompat;
+import androidx.core.app.ActivityCompat;
+import androidx.core.content.ContextCompat;
 
 public class ImagePicker extends CordovaPlugin {
 
